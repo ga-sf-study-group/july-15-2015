@@ -9,10 +9,10 @@ For each guess, you are told the number of hits and pseudo-hits.<br>
 Write a method that, given a guess and a solution, returns the number of hits and pseudo hits.</p>
 
 <h2>Problem 2 - Othello</h2>
-<p>You can find the rules for the game <a href="http://www.site-constructor.com/othello/othellorules.html">Here</a></p>
+<p>You can find the rules for the game <a href="http://www.site-constructor.com/othello/othellorules.html">here</a></p>
 
 <h2>Problem 3 - Minesweeper</h2>
 <p>We have all played minesweeper, but in case, you can find the rules <a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)">here.</a></p>
 
 <h2>Problem 4 - Tic Tac Toe</h2>
-<p>You can find the rules for Tic Tac Toe <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">Here</a></p>
+<p>You can find the rules for Tic Tac Toe <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">here</a></p>
